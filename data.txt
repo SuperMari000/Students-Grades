@@ -1,0 +1,16 @@
+010-010 Mostafa Shehab Zinnarah,Tala 100
+011-010 Ahmed Shehab Zinnarah,Tala 60
+012-010 Karam Shehab Zinnarah,Tala 70
+013-010 Mohamed Shehab Zinnarah,Tala 85
+014-010 Mahmoud Allam shebin,elkom 20
+015-010 Mostafa Elkomy Ganzor 50
+016-010 Aya Shehab 6-October 80
+017-010 Asmaa Mostafa Tala 30
+018-010 Khaled Shehab Zinnarah,Tala 85
+019-010 Amr Makram Alex 30
+020-010 Reem Mostafa Tanta 20
+021-010 Yasmein Sabry Alex 72
+022-010 Amer Hesham Helwan 62
+023-010 Asmaa Esam Elshohada 46
+025-010 Karam Gaber Elzagazig 30
+026-010 Amal Maher London 62
